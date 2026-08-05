@@ -10,9 +10,11 @@
 
 <br/><br/>
 
+<!--
 <a href="https://www.linkedin.com/in/b2626826">
   <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+-->
 <a href="mailto:b2626826@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -35,6 +37,18 @@ I am currently learning full-stack development at iSpan while growing toward pra
 | 01 | Build reliable web systems | Learn frontend, backend, APIs, databases, testing, and deployment fundamentals. |
 | 02 | Explore AI capabilities | Experiment with LLM applications, retrieval, agents, evaluation, and human-in-the-loop workflows. |
 | 03 | Ship useful tools | Apply both foundations to products that make information and decisions easier to work with. |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark" alt="Java, Python, TypeScript, JavaScript, HTML, and CSS" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,spring,postgres,hibernate,docker,git,githubactions,linux,vscode&theme=dark" alt="React, Vite, Spring, PostgreSQL, Hibernate, Docker, Git, GitHub Actions, Linux, and VS Code" />
+
+</div>
 
 ---
 
@@ -124,18 +138,6 @@ ai_product_development:
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark" alt="Java, Python, TypeScript, JavaScript, HTML, and CSS" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,spring,postgres,hibernate,docker,git,githubactions,linux,vscode&theme=dark" alt="React, Vite, Spring, PostgreSQL, Hibernate, Docker, Git, GitHub Actions, Linux, and VS Code" />
-
-</div>
-
----
-
 ## Progress Log
 
 - Building end-to-end projects to strengthen product and system design fundamentals.
@@ -148,8 +150,7 @@ ai_product_development:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=b2626826-blip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=b2626826-blip&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=6B7280" height="170" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=b2626826-blip&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=6B7280" height="185" alt="GitHub contribution streak" />
 
 </div>
 
@@ -158,9 +159,5 @@ ai_product_development:
 <div align="center">
 
 <i>Turning curiosity into useful systems.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8B5CF6,50:6D28D9,100:4C1D95&section=footer" width="100%" />
 
 </div>
