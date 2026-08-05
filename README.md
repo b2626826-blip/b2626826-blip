@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,50:6D28D9,100:8B5CF6&text=Eagle&fontColor=F5F3FF&fontSize=52&fontAlignY=38&desc=Full-stack%20Builder%20to%20AI%20Product%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-<a href="https://github.com/b2626826-blip">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+reliable+web+systems;Exploring+practical+AI+products;Markets+%C2%B7+Tools+%C2%B7+Better+decisions" alt="Full-stack Builder to AI Product Builder" />
-</a>
+<img src="./assets/profile-hero-v3.png" width="100%" alt="Full-stack Builder to AI Product Builder: systems flow into practical AI tools" />
 
 <br/><br/>
 
